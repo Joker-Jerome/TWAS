@@ -1,3 +1,3 @@
 # TWAS
 
-# TWAS is a repo for different TWAS pipelines.
+TWAS is a repo for different TWAS pipelines.
